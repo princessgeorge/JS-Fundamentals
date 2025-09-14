@@ -8,4 +8,3 @@ if (arg1 && arg2) {
 } else if (arg1) {
   console.log(arg1);
 }
-// If no args: do nothing (no output)
